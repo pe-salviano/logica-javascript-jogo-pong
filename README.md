@@ -11,7 +11,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>O jogo Pong, foi criado para treinar a Minha lógica! Para rodar é preciso baixar os arquivos e anexar no P5.js web.</p>
+<p>O jogo Pong foi desenvolvido para aprimorar os meus conhecimentos em lógica através do JavaScript! Para rodar é preciso baixar os arquivos e anexar no P5.js web.</p>
 <p>MODO DE JOGAR;<p>
 <p>JOGADOR 1 - SETA PARA CIMA E BAIXO</p>
 <p>JOGADOR 2 - TECLA W (CIMA) e TECLA S(BAIXO)</p>
